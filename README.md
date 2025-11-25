@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sgfmohammed" target="blank"><img src="https://img.shields.io/twitter/follow/sgfmohammed?logo=twitter&style=for-the-badge" alt="sgfmohammed" /></a> </p>
 
-- 🌱 I’m currently learning Software Engineering **SCSE1013-FCP-24251**
+- 🌱 I’m currently learning Software Engineering
 
 - 🤝 I’m looking for help with Organizing the Arab Civilizations Event (cultural showcase) **Yemeni Culture Event**
 
